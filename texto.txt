@@ -1,0 +1,7 @@
+Esse é um teste para a abertura de arquivo em Python, se está vendo essa mensagem então o arquivo foi aberto
+corretamente
+Leitura de arquivos
+Essa é a linha 4
+Mais um texto qualquer
+Ainda tá lendo?
+Vai pra casa, tchau
